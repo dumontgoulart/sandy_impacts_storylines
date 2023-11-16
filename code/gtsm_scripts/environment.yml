@@ -1,0 +1,42 @@
+name: hydromt
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - affine
+  - black
+  - bottleneck
+  - cartopy[version='>=0.20']
+  - click
+  - dask
+  - descartes
+  - entrypoints
+  - flit[version='>=3.4']
+  - fsspec
+  - gdal[version='>=3.1']
+  - geopandas[version='>=0.10']
+  - hydromt[version='>=0.6']
+  - hydromt_sfincs
+  - jupyterlab
+  - matplotlib
+  - nbsphinx
+  - netcdf4
+  - numpy
+  - openpyxl
+  - pandas
+  - packaging
+  - pip
+  - pyflwdir[version='>=0.5.4']
+  - pyproj
+  - python[version='>=3.10']
+  - rasterio
+  - requests
+  - rioxarray
+  - scipy
+  - sphinx
+  - shapely[version='>=2.0.0']
+  - universal_pathlib
+  - pydata-sphinx-theme
+  - xarray
+  - xmltodict
+  - zarr
