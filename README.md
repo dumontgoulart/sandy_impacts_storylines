@@ -6,16 +6,6 @@ Goulart, H.M.D., Benito Lazaro, I., van Garderen, L., van der Wiel, K., Le Bars,
 
 The paper aims to assess the compound coastal flooding impacts of Hurricane Sandy (2012) on critical infrastructure in New York City, using a storyline approach. The storyline approach is a qualitative method that allows to explore the cascading effects of extreme events and the interdependencies between critical infrastructures. The paper presents four storylines that describe different scenarios of Hurricane Sandy impacts, based on the literature review, expert interviews, and climate model projections. The storylines are then quantified using a modelling framework that connects meteorological conditions to local hazards and impacts, using the Global Tide and Surge Model (GTSM), the SFINCs model, and the Critical Infrastructure Exposure Analysis (CIEA).
 
-The code is written in Python and requires the following packages:
-
-- numpy
-- pandas
-- matplotlib
-- scipy
-- networkx
-- pySD
-- cdsapi
-- hydromt
 
 The code consists of the following files and directories:
 
